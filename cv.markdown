@@ -8,7 +8,7 @@ permalink: /cv/
 
 **Email:** [vinitsansare@gmail.com](mailto:vinitsansare@gmail.com)  
 **Phone:** +91 9870945819  
-**LinkedIn:** [LinkedIn](#)
+**LinkedIn:** [linkedin.com/in/vinitsansare](https://www.linkedin.com/in/vinitsansare)
 
 ### Summary
 A seasoned Full Stack Developer with over 10 years of experience in microservice architecture, project planning, team leadership, and client coordination. Highly proficient in Agile and Scrum methodologies, with extensive experience in MEAN/MERN stack, cloud services, and Big Data solutions. Recognized for exemplary performance and a proven track record in delivering high-quality software solutions in Manufacturing, FMCG, and Fintech domains.
