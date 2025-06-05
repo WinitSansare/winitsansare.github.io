@@ -27,6 +27,9 @@ url: "https://winitsansare.github.io" # the base hostname & protocol for your si
 twitter_username: vinitsansare
 github_username:  WinitSansare
 
+# Display posts scheduled for future dates
+future: true
+
 # Build settings
 theme: minima
 plugins:
