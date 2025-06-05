@@ -1,2 +1,2 @@
-# winitsansare.github.io
-A blogging platform for my work, hobbies and much more. :)
+# Vinit's Dev Hub
+Welcome to my personal development hub and blog. Here I share projects, tutorials, and hobbies.
