@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Kubernetes"
 date: 2025-06-05 22:00:00 +0000
-categories: kubernetes
+categories: devops
 ---
 Kubernetes, often abbreviated as K8s, is an open source system for automating the deployment, scaling, and management of containerized applications. It was originally created by Google and has since become the de facto standard for container orchestration.
 
