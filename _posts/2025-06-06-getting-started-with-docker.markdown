@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with Docker"
 date: 2025-06-06 22:00:00 +0000
-categories: docker
+categories: devops
 ---
 Docker is a platform that simplifies building, running, and shipping applications using containers. Containers package an application with all its dependencies, ensuring consistent behavior across environments.
 
