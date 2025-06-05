@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vinit Sansare
+title: "Vinit's Dev Hub"
 email: vinitsansare@gmail.com
 description: >-
-  Personal website and blog of Vinit Sansare, sharing projects and insights.
+  Personal development hub and blog of Vinit Sansare, sharing projects and insights.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://winitsansare.github.io" # the base hostname & protocol for your site
 twitter_username: vinitsansare
