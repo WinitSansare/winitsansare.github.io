@@ -42,6 +42,10 @@ A seasoned Full Stack Developer with over 10 years of experience in microservice
 **Intelligent Operation Platform | Technical Lead / Architect / SME**
 - Architected and implemented a comprehensive solution utilizing C#, Node.JS, Apache Spark, and Python.
 - Directed a team, ensuring alignment with client objectives and timely delivery of milestones.
+- Worked on Factory I/O simulating real-world models using **Node-RED**.
+- Ingested data using Azure Stream Analytics and stored it in Azure S3 as Parquet files.
+- Processed Parquet files in Azure Synapse with Spark analytics, storing them in a star schema for efficient retrieval of archived data.
+- Performed data cleaning and preprocessing for big data using Spark.
 - **Technologies Used:** C#, Node.JS, Apache Spark, Python
 
 **WTUDC | Technical Lead / SME**
