@@ -17,7 +17,12 @@ A seasoned Full Stack Developer with over 10 years of experience in microservice
 
 **Morningstar Inc.** | *Senior Software Engineer* (April 2022 &ndash; Present)
 
-**DBRSM (Jun 2023 &ndash; Current) | Full Stack Java Developer**
+**MEDS (Jun 2024 &ndash; Present) | Full Stack Java Developer**
+- Worked on critical changes including Dual Listing, addressing slowness issues in Segment, and implementing No Touch Automation enhancements.
+- Contributed to premigration efforts leveraging AWS EKS and ECR.
+- **Technologies Used:** Java 8, AWS EKS, AWS ECR, SQL, Vue 2
+
+**DBRSM (Jun 2023 &ndash; Jun 2024) | Full Stack Java Developer**
 - Designed and developed a Syncer Tool for data synchronization, boosting operational efficiency by 30%.
 - Enhanced system functionality through critical Java modifications.
 - **Technologies Used:** Java 8, SQL, Vue 2, JavaScript
